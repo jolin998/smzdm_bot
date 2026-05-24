@@ -20,7 +20,7 @@
 4. fork后必须修改一下文件，才能执行定时任务, 可修改 `README.MD`, 添加一个空格
 
 
-# 3. 其它
+# 3. 其它1
 ## 3.1 cookie获取方法
 + 首先使用chrome浏览器，访问[什么值得买官网](https://www.smzdm.com/)， 登陆账号
 + Windows系统可按 `F12` 快捷键打开开发者工具, Mac 快捷键 `option + command + i`
